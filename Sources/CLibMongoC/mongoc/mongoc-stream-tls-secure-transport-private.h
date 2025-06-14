@@ -15,6 +15,7 @@
  */
 
 #include "CLibMongoC_mongoc-prelude.h"
+#include <Security/SecureTransport.h>
 
 #ifndef MONGOC_STREAM_TLS_SECURE_TRANSPORT_PRIVATE_H
 #define MONGOC_STREAM_TLS_SECURE_TRANSPORT_PRIVATE_H
