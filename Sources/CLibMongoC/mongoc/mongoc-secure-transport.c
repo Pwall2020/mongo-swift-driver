@@ -32,6 +32,7 @@
 #include <Security/Security.h>
 #include <Security/SecKey.h>
 #include <Security/SecureTransport.h>
+#include <Security/SecCertificateOIDs.h>
 #include <CommonCrypto/CommonDigest.h>
 #include <Security/Security.h>
 #include <Security/SecureTransport.h>
